@@ -1,2 +1,6 @@
 apples
 oranges
+pears
+dragonfruits
+lychees
+mangoes
